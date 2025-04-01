@@ -28,7 +28,7 @@ python3 RabiesAnalyzer_eng.py
 ##  <a id="run">**How to run**</a>
 ### Run
 After executing the script you will see the program window. To analyze the genome, select the file using the button "Open .fasta file". Launch the program using the "Analysis" button.
-#### Results
+### Results
 Below you will see the result, the group from which the strain possibly originates, and its geographical distribution.
 ***
 ## <a id="cite">**For citation:**</a>
@@ -50,7 +50,7 @@ python3 RabiesAnalyzer_eng.py
 ##  <a id="run-ru">**Запуск**</a>
 ### Запуск
 Перед вами возникнет окно работы программы. Для анализа геномов, выберите файл по кнопке "Open .fasta file". Запустите программу по кнопке "Analysis".
-#### Результаты
+### Результаты
 Ниже вы сможете увидеть результат выполнения, а именно группу, откуда возможно происходит штамм, его географическое распространение.
 ***
 ## <a id="cite-ru">**Для цитирования:**</a>
