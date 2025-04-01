@@ -1,0 +1,12 @@
+name: rabiesanalyzer
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - r
+dependencies:
+  - python==3.10
+  - pandas==1.5.3
+  - numpy==1.24.2
+  - mafft==7.520
+  - biopython==1.81
